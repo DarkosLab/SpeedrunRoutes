@@ -1,0 +1,29 @@
+
+                                                                                                                                                                
+ooooo 8               .oPYo. 8      8                .oPYo.                     8 8          o     o      .oPYo. 8                    o           .oPYo. .oPYo. 
+  8   8               8.     8      8                8                          8 8          8     8      8      8                                8      8.     
+  8   8oPYo. .oPYo.   `boo   8 .oPYo8 .oPYo. oPYo.   `Yooo. .oPYo. oPYo. .oPYo. 8 8 .oPYo.   8     8 88   `Yooo. 8  .o  o    o oPYo. o8 ooYoYo.   `Yooo. `boo   
+  8   8    8 8oooo8   .P     8 8    8 8oooo8 8  `'       `8 8    ' 8  `' 8    8 8 8 Yb..     `b   d'          `8 8oP'   8    8 8  `'  8 8' 8  8       `8 .P     
+  8   8    8 8.       8      8 8    8 8.     8            8 8    . 8     8    8 8 8   'Yb.    `b d'            8 8 `b.  8    8 8      8 8  8  8        8 8      
+  8   8    8 `Yooo'   `YooP' 8 `YooP' `Yooo' 8       `YooP' `YooP' 8     `YooP' 8 8 `YooP'     `8'   88   `YooP' 8  `o. `YooP8 8      8 8  8  8   `YooP' `YooP' 
+::..::..:::..:.....::::.....:..:.....::.....:..:::::::.....::.....:..:::::.....:....:.....::::::..:::..::::.....:..::...:....8 ..:::::....:..:..:::.....::.....:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::ooP'.:::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::...:::::::::::::::::::::::::::::::::::
+
+
+~-===All Fishing Quests===-~
+Version 4
+
+
+Glitches Used
+-------------
+ - Infinite Sprint
+ - Vendor Glitches (Money/Inventory Reset)
+ - Mzark Skip (Sneak Backwards Power Attack) [For consistency because i suck at the wall clip]
+
+Rules:
+Timing starts when you gain full control of your character (camera and movement) and stops when you complete "The End of the Line".
+
+
+Route:
+
