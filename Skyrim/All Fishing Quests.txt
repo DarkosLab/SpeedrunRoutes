@@ -21,9 +21,39 @@ Glitches Used
  - Vendor Glitches (Money/Inventory Reset)
  - Mzark Skip (Sneak Backwards Power Attack) [For consistency because i suck at the wall clip]
 
-Rules:
+
+Rules
+-----
 Timing starts when you gain full control of your character (camera and movement) and stops when you complete "The End of the Line".
+Time without loads has to be shown on LiveSplit.
 
 
-Route:
+-=+++++++++=-
+-=+ Route +=-
+-=+++++++++=-
 
+
+Setup
+-----
+Argonian start for waterbreathing and histskin(Ancestor moth cave is a nightmare)
+
+
+Helgen
+------
+Sprint through Helgen grabbing the salt and potion from the table in the room at the bottom of the first set of stairs.
+After exiting fast travel to the helgen marker do a 180 and head to Giermunds Hall.
+
+
+Geirmund's Hall
+---------------
+Grab a catfish near the fishing spot behind the cave and head southeast up the river toward Riften grabbing a brook bass before the bridge.
+
+
+Riften
+------
+Enter riften through the brewery and snag the keep waypoint on your way down to the ratway. There is a woodcutter's axe just inside the door,
+grab it and head back up to a vendor and take all their gold. Exit riften near the smith and travel around to the cart to catch a ride to Windhelm.
+
+
+Windhelm
+--------
