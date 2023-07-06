@@ -1,3 +1,3 @@
 # SpeedrunRoutes
 
-Public hosting for the rediculous routes I've come up with.
+Public hosting for notes of the rediculous routes I've come up with.
