@@ -21,6 +21,9 @@ Glitches Used
  - Vendor Glitches (Money/Inventory Reset)
  - Mzark Skip (Sneak Backwards Power Attack) [For consistency because i suck at the wall clip]
 
+Allowed INI Tweaks
+------------------
+bShowTutorials=0
 
 Rules
 -----
@@ -63,5 +66,5 @@ river heading towards the Wreck of the Winter War. Grab two Arctic Char and swim
 Take to road West taking the first left to head South towards Mara's Eye Pond. While there grab 3 Goldfish from the pond and loot a mudcrab for
 crab legs and crab meat. Travel back to Windhelm head east along the road crossing the bridge to the northern shore before continuing along the road.
 
-You will need to tag the Forgotten Cave on your way to the Nightgate Inn. Grab 2 Arctic Graylings and continue West towars Tower Mzark.
+You will need to tag the Forgotten Cave on your way to the Nightgate Inn. Grab 2 Arctic Graylings and continue West towards Tower Mzark.
 
