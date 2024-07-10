@@ -61,7 +61,7 @@ grab it and head back up to a vendor and take all their gold. Exit riften near t
 Windhelm
 --------
 Jump down the cliff to the NE and swim under the boats heading towards Yngol Barrow catch a cod along the way. Tag the barrow as you run along the
-river heading towards the Wreck of the Winter War. Grab two Arctic Char and swim back till you can t fast travel back to Windhelm.
+river heading towards the Wreck of the Winter War. Grab two Arctic Char and swim back till you can fast travel back to Windhelm.
 
 Take to road West taking the first left to head South towards Mara's Eye Pond. While there grab 3 Goldfish from the pond and loot a mudcrab for
 crab legs and crab meat. Travel back to Windhelm head east along the road crossing the bridge to the northern shore before continuing along the road.
@@ -70,31 +70,58 @@ You will need to tag the Forgotten Cave on your way to the Nightgate Inn. Grab 2
 
 Head up the mountains and BPA clip through the gate to activate the elevator to Blackreach.
 
+
 Blackreach
 ----------
+Exit the tower and head NE past the bridge and hang left past the towers to get to the water fall. Grab 3 Glassfish and 1 Glass Catfish. Turn SE and head to the exit.
+
+Fast travel back to Windhelm cart to Winterhold
 
 
-Back to Windhelm cart to Winterhold, head NE to Pilgrim's Trench; Grab Anglerfish and Angler Larvae.
-Back to Windhelm cart to Solitude. Head southeast to the docks, tagging the mill along the way. Grap a Carp from the river.
+Winterhold
+----------
+Head NW to Pilgrim's Trench; Grab Anglerfish and Angler Larvae.
+
+Back to Windhelm cart to Solitude.
+
+
+Solitude
+--------
+Head southeast to the docks, tagging the mill along the way. Grap a Carp from the river.
 Then head Northeast around to Broken Oar Grotto to grab a Direfish
 Swim west till you hit Castle Volkihar and grab a pearlfish and Vampire Fish.
 FT back to Solitude, Head east to Darkfall Cave to grab a Scorpion Fish and Tripod Spiderfish.
-FT to Solitude cart to Markarth, travel east and jump in the river to grab a Pogfish.
-FT Markarth cart to Falkreath, head out the eastern exit following the road east to Ancestor Glade get Pigmy Sunfish, Angelfish and a Spadefish.
+FT to Solitude cart to Markarth.
+
+
+Markarth
+--------
+Travel east and jump in the river to grab a Pogfish.
+FT Markarth cart to Falkreath
+
+
+Falkreath
+---------
+Head out the eastern exit following the road east to Ancestor Glade get Pigmy Sunfish, Angelfish and a Spadefish.
+
 FT Falkreath head NW to Evergreen Grove, get Lyretail Anthias.
+
 Escape NE to the road, follow it north head to the crab pond near Gjukar's Monument grab Juvenille Mudcrab.
+
 
 In A Pinch
 ----------
 Head to Riften Docks deliver a Juvenille Mudcrab to Viriya.
 
+
 Clear-Headed
 ------------
 Head to Falkreath for Glassfish quest; Talk to Zaria in Grave Concoctions.
-Deliver the glassfish, read her note. speak t oher again agree to help.
+Deliver the glassfish, read her note. speak to her again agree to help.
 Take potion to guard in barracks, follow him into the dungeon.
 When he says soon and the quest stage changes you can leave the barracks and head back to zaria.
-Get reward and fst travel back to Riften.
+Get reward and fast travel back to Riften.
+
 
 Heart of Gold
 -------------
@@ -102,12 +129,14 @@ Return to Viriya for the Goldfish quest take the cart to Whiterun.
 Track down Mila, give her the fish.
 Wait at the trough by her house for your reward then fast travel back to Riften.
 
+
 No Contest
 ----------
 Return to Viriya, read note and cart to Morthal.
 Speak to the old man (spam through his dialogue), heat up to the spot.
 Wait 1 hr, kill him and his minions, read the journal.
 Fish up the Warlock's Ring, Fast travel back to Riften.
+
 
 Crustacean Extermination
 ------------------------
@@ -117,9 +146,11 @@ Setp 3: read journal and travel back to Viriya.
 
 Go see Swims-In-Deep-Water
 
+
 Catch of The Day
 ----------------
 Read the note and turn in fish. (Goldfish, Glassfish, Pogfish, Carp)
+
 
 Caught In The Rain
 ------------------
@@ -128,13 +159,16 @@ Return to Riften and lie about his hat and turn in the fish. (Catfish, Pearlfish
 
 Wait 1 hr and talk to him again.
 
+
 Frozen Fish
 -----------
 Read the note and turn in the fish. (Angler Larvae, Arctic Char, Arctic Grayling, Cod)
 
+
 Darkest Depths
 --------------
 Read the note and turn in the fish. (Direfish, Glass Catfish, Tripod Spiderfish, Vampire Fish)
+
 
 Fishing Legend
 --------------
@@ -142,17 +176,20 @@ Read note and turn in fish. (Scorpion Fish, Lyretail Anthias, Angler, Angelfish)
 
 Read the notes from Mila and Viriya.
 
+
 Two Of A Kind
 -------------
 Travel to Whiterun and give the second goldfish to Mila.
 Wait at the trough, read her note.
 Interact with the chest by Dragonsreach.
 
+
 Tusked Terror
 -------------
 Travel to Yngol Barrow and head northeast to the shore.
 Place fish and fight the Horker, loot the ring and FT back to Windhelm.
 Speak to the steward then back to Riften.
+
 
 Private Lessons:
 ----------------
@@ -161,11 +198,13 @@ Head to the inn and talk to Lynea.
 Exit inn head east to the fishing spot by the warrens, wait 1 hr talk and start fishing.
 Fish, get rewards and tag the Keep before travelling back to Riften.
 
+
 Spirits Away
 ------------
 Read note, travel to markarth and head south along the road to the fishing spot.
 Fish up the flynn (3x) and return them to Ri'saad
 Travel back to Riften.
+
 
 The Ultimate Feast
 ------------------
@@ -175,6 +214,7 @@ Head into the Bannered Mare and cook (Crab Stew, Cooked Arctic Char, Steamed Cra
 FT to Solitude and enter the inn.
 Top floor place food, wait 1 hr for Gisli, when she sits wait 1 hour again.
 Grab gold and FT back to Riften.
+
 
 Beneath Bronze Waters
 ---------------------
@@ -188,6 +228,7 @@ Place the orbs and FT back to Riften
 
 Wait for the Courier to give you a note.
 
+
 Wave Breaker
 ------------
 FT to Dawnstar and fight two waves of crabs at the shack.
@@ -195,12 +236,19 @@ Talk to Viriya in the shack, fight the crab god.
 Look for crabs with firepots and loot 6 of them, fire catapults for ez win.
 Talk to Viriya, then FT to Dawnstar and speak to the Jarl.
 
+
 End Of The Line
 ---------------
-FT back to Riften and buy 7 iron ingots, 1 Corundum Ingot.
+FT to Whiterun, then to Riften the courier should give you a note if not FT between the two to spawn him.
+In Riften and buy 7 iron ingots, 1 Corundum Ingot.
 Make 20 nails, 4 Iron fittings, 1 Lock and chop wood 3 times.
 Read the note from the Courier and deliver supplies to Viriya.
-Wait 24 hrs, speak to Viriya at the stall recieve item and time.
+Wait 24 hrs, speak to Viriya at the stall.
+
+Time
+----
+Time is when the quest completed text is fully on screen.
+
 
 Fished Artifacts for 100%:
 -----------------
